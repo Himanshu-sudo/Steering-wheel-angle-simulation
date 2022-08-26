@@ -1,6 +1,3 @@
-# Autopilot-TensorFlow
-A TensorFlow implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with some changes.
-
 # Motivation
 * A lot of accidents take place because a driver who is a human being
 driving a car gets distracted.
@@ -23,4 +20,7 @@ steering wheel angles.
 * The size of the dataset is 45,408 images.
 * Looking at one image, as human beings we can say that we have to
 rotate a steering wheel angle or not.
+
+# Output
+* Simulation of a steering wheel on a video. The steering wheel will be rotating according to the angle of the road.
 
