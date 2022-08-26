@@ -24,5 +24,3 @@ steering wheel angles.
 * Looking at one image, as human beings we can say that we have to
 rotate a steering wheel angle or not.
 
-![scr1](https://github.com/Himanshu-sudo/Simulating-Self-Driving-Car/blob/master/images/data.png?raw=true)
-
